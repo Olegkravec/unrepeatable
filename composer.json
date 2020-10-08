@@ -1,0 +1,14 @@
+{
+    "name": "olegkravec/unrepeatable",
+    "type": "library",
+    "require": {
+        "php" : "7.3"
+    },
+    "authors": [
+        {
+            "name": "Oleg",
+            "email": "olegkravec97@gmail.com"
+        }
+    ],
+    "description": "Controlling runs of repeat sensetive functional"
+}
