@@ -10,5 +10,10 @@
             "email": "olegkravec97@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "OlegKravec\\Unrepeatable\\": "src/"
+        }
+    },
     "description": "Controlling runs of repeat sensetive functional"
 }
